@@ -1,6 +1,4 @@
-import React from 'react'
-
-import link from 'next/link'
+import Link from 'next/link'
 
 const PropertiesPage = () => {
   return (
